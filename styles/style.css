@@ -1,8 +1,24 @@
 /*
-Colors:
 
-Text: 1A1A1A
-Green: #00B172
-White: #FFF
+            MARIONA BATALLA TAYLOR
+            mariona.batalla.taylor@gmail.com
+            IronHack - FrontEnd Bootcamp
+            Week 2 - Day 3 Lab: SPOTIFY CLONE
+            July 2022
+
+
+            Colors:
+            -------
+
+            Text: 1A1A1A
+            Green: #00B172
+            White: #FFF
 
 */
+
+* 
+{
+    /* we initially define by default margin and padding as 0*/
+    padding: 0;
+    margin: 0;
+}
